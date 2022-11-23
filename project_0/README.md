@@ -10,6 +10,6 @@
 
 ТАким образом, среднее количество попыток угадать доведено до 5.
 
-Ссылка на проект: https://drive.google.com/file/d/11wsTUpd-_R5X3wM_5y-9J9B6GxjiUlyF/view?usp=share_link
+Ссылка на проект: https://drive.google.com/file/d/11zM0Ubvzae7rAsj3KF2k3xGYSBcDP4Sg/view?usp=share_link
 
 
